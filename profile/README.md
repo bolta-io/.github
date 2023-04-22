@@ -6,4 +6,4 @@ Yes, we are building Bolta. In fact, we’ve been doing this since **April 10th,
 
 ### 🍿 More information will be updated soon.
 
-Please stay tuned for further updates.
+- Homepage: https://www.bolta.io
